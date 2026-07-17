@@ -1,0 +1,16 @@
+{
+    "name": "ESP32-CAM Fire Detector",
+    "short_name": "FireDetect",
+    "description": "ESP32-CAM Fire & Blast Detection",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0a0a0a",
+    "theme_color": "#ff6b35",
+    "icons": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/512/785/785116.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
